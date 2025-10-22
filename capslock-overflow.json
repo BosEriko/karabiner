@@ -1,0 +1,21 @@
+{
+    "description": "Remap caps_lock to control and control+[ to escape",
+    "manipulators": [
+        {
+            "from": { "key_code": "caps_lock" },
+            "to": [{ "key_code": "left_control" }],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "open_bracket",
+                "modifiers": {
+                    "mandatory": ["left_control"],
+                    "optional": ["any"]
+                }
+            },
+            "to": [{ "key_code": "escape" }],
+            "type": "basic"
+        }
+    ]
+}
