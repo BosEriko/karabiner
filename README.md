@@ -16,6 +16,6 @@ Update your Complex Modifications with the following:
 ## Raycast
 Install Raycast for quick navigation with the following:
 1. Disable Spotlight: System Settings → Keyboard → Keyboard Shortcuts → Spotlight
-2. Install using homebrew: `brew install --cask raycast`
-3. Setup raycast to use `right cmd` and `space bar` (if it doesn't work on setup screen, you can set it up later on settings instead)
-4. Turn off raycast ai on the settings
+2. Install Raycast using homebrew: `brew install --cask raycast`
+3. Setup Raycast to use `right cmd` and `space bar` (if it doesn't work on setup screen, you can set it up later on settings instead)
+4. Turn off Raycast AI on the settings
