@@ -13,3 +13,9 @@ Update your Complex Modifications with the following:
 3. [Change right_command+hjkl to arrow keys](global-vim-movement.json)
 4. [Swap Command and Option for all non-Apple keyboards](swap-command-option.json)
 
+## Raycast
+Install Raycast for quick navigation with the following:
+1. Disable Spotlight: System Settings > Keyboard > Keyboard Shortcuts > Spotlight
+2. Install using homebrew: `brew install --cask raycast`
+3. Setup raycast to use `right cmd` and `space bar` (if it doesn't work on setup screen, you can set it up later on settings instead)
+4. Turn off raycast ai on the settings
