@@ -13,13 +13,6 @@ Update your Complex Modifications with the following:
 3. [Change right_command+hjkl to arrow keys](global-vim-movement.json)
 4. [Swap Command and Option for all non-Apple keyboards](swap-command-option.json)
 
-## Enable Repeated Keys
-Enable repeated keys to avoid pop up on key hold with the following:
-```sh
-defaults write -g ApplePressAndHoldEnabled -bool false
-```
-*Note: Restart to make it take effect*
-
 ## Raycast
 Install Raycast for quick navigation with the following:
 1. Disable Spotlight: System Settings → Keyboard → Keyboard Shortcuts → Spotlight
