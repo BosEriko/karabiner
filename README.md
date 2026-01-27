@@ -12,6 +12,7 @@ Update your Complex Modifications with the following:
 2. [Map left_control to ` and shift+left_control to ~](accent-and-tilde.json)
 3. [Change right_command+hjkl to arrow keys](global-vim-movement.json)
 4. [Swap Command and Option for all non-Apple keyboards](swap-command-option.json)
+5. [Map ctrl+j/k to next/previous tab in Zen](zen-tab-navigation.json)
 
 ## Raycast
 Install Raycast for quick navigation with the following:
