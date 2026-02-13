@@ -1,4 +1,4 @@
-# Karabiner (Hotkeys)
+# Karabiner (Keybinds)
 Download [Brew](https://github.com/BosEriko/brew) as your package manager then install [Karabiner](https://formulae.brew.sh/cask/karabiner-elements).
 
 ## Install Karabiner
